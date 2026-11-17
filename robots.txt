@@ -1,0 +1,5 @@
+# Alle søkemotorer og AI-tjenester er velkomne.
+User-agent: *
+Allow: /
+
+Sitemap: https://atleconradsen-maker.github.io/Tomrer-busk/sitemap.xml

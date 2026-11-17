@@ -21,3 +21,8 @@ Seksjonen `#prosjekter` ligger klar i `index.html`, men er skjult.
 - `logo-hvit-tekst.svg` – til mørk bakgrunn
 - `logo-mork-tekst.svg` – til lys bakgrunn
 - `logo-merke.svg` – bare TB-merket (brukes også som favicon)
+
+## Søk (SEO) og AI
+- Tittel, beskrivelse, Open Graph og strukturerte data (schema.org, JSON-LD) ligger i `<head>` i `index.html`.
+- `sitemap.xml`, `robots.txt` og `llms.txt` ligger i rotmappen.
+- Får siden eget domene: bytt `https://atleconradsen-maker.github.io/Tomrer-busk/` med det nye domenet i alle disse filene.
