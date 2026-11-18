@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://atleconradsen-maker.github.io/Tomrer-busk/sitemap.xml
+Sitemap: https://tomrerbusk.no/sitemap.xml
