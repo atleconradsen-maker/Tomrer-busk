@@ -25,4 +25,4 @@ Seksjonen `#prosjekter` ligger klar i `index.html`, men er skjult.
 ## Søk (SEO) og AI
 - Tittel, beskrivelse, Open Graph og strukturerte data (schema.org, JSON-LD) ligger i `<head>` i `index.html`.
 - `sitemap.xml`, `robots.txt` og `llms.txt` ligger i rotmappen.
-- Får siden eget domene: bytt `https://atleconradsen-maker.github.io/Tomrer-busk/` med det nye domenet i alle disse filene.
+- Domene: https://tomrerbusk.no/ (satt i `CNAME`). Bytter dere domene, oppdater `CNAME` og adressen i alle disse filene.
